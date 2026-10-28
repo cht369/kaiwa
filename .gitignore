@@ -1,0 +1,24 @@
+# 备份文件
+*_bak*.html
+_safe_*.html
+*.bak
+*.orig
+
+# 临时脚本
+_*.py
+_w*.py
+
+# 系统与工具
+.DS_Store
+Thumbs.db
+.history/
+.trae-html-share-packages/
+node_modules/
+
+# 截图草稿（只保留 README 引用的三张）
+shot_*.png
+投稿/
+
+# 编辑器
+.vscode/
+.idea/
